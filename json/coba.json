@@ -7,6 +7,10 @@
 		"hobby": [
 			"gaming",
 			"olahraga"
-		]
+		],
+		"pembimbing": {
+			"pembimbing1": "Doddy Ferdiansyah",
+			"pembimbing2": "Erik Doank"
+		}
 	}
 ]
